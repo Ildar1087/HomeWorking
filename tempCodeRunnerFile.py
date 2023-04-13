@@ -1,2 +1,0 @@
- sum =+ n 
-# print(sum)
